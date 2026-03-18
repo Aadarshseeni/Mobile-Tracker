@@ -1,37 +1,44 @@
-# Mobile-Tracker
-A secure Mobile Tracking Tool Built Using Kali Linux And Python .
-This project helps users track their lost devices using GPS location and network-based identification.
+# # 📱 Mobile-Tracker
+
+A secure Mobile Tracking Tool built using Kali Linux and Python.
+This project helps users track their own devices using GPS location and network-based identification.
 
 ---
 
 ## 🚀 Features
 
-1.Multi-source location tracking:
-GPS via ADB
-Cellular triangulation
-Wi-Fi positioning
+### 1. Location Tracking
 
-2.Device identification:
-IMEI tracking
-SIM card monitoring
-Device fingerprinting
+* GPS-based tracking (via user-enabled services)
+* Wi-Fi-based positioning
+* Real-time location updates
 
-3.Security features:
-Encrypted data storage
-Rate limiting
-Input validation
+### 2. Device Identification
 
-4.Additional capabilities:
-Historical tracking
-SIM change detection
-Real-time alerts
+* Unique device ID tracking
+* IP address logging
+* Device fingerprinting
+
+### 3. Security Features
+
+* Encrypted data storage
+* Input validation
+* Secure communication
+
+### 4. Additional Capabilities
+
+* Historical tracking
+* Real-time alerts (future enhancement)
+* Device activity monitoring
+
+---
 
 ## 🛠️ Technologies Used
 
-* Python 3.x-Primary implementation language
-* ADB(Android Debug Bridge)-For device communication
-* sqlite-Local data storage
-* Cryptography-For encrypted storage
+* Python 3.x — Primary implementation language
+* ADB (Android Debug Bridge) — For device communication (optional/local use)
+* SQLite — Local data storage
+* Cryptography — For encrypted storage
 
 ---
 
@@ -45,10 +52,11 @@ Real-time alerts
 ## ⚠️ Disclaimer
 
 This tool is developed only for educational and ethical purposes.
-Use it only on your own devices.
+Use it only on your own devices or with proper permission.
 
 ---
 
 ## 👨‍💻 Author
 
-Aadarsh (Cybersecurity Enthusiast)
+Aadi (Cybersecurity Enthusiast)
+
