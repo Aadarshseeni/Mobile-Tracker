@@ -4,7 +4,7 @@ import uuid
 
 DEVICE_ID = str(uuid.uuid4())
 
-SERVER_URL = "http://YOUR_KALI_IP:5000/track"
+SERVER_URL = "http://192.168.x.x:5000/track"
 
 OLD_SIM = "Airtel"
 
